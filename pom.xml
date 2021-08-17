@@ -6,7 +6,7 @@
 
     <groupId>pro</groupId>
     <artifactId>ks</artifactId>
-    <version>6-SNAP</version>
+    <version>7-SNAP</version>
     <packaging>war</packaging>
 
     <repositories>
