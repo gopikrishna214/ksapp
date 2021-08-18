@@ -63,12 +63,12 @@
     </build>
 	<distributionManagement>
     <repository>
-      <id>nexus</id>
+      <id>deploy</id>
       <name>Releases</name>
       <url>http://34.125.81.23:8081/repository/maven-releases</url>
     </repository>
     <snapshotRepository>
-      <id>nexus</id>
+      <id>deploy</id>
       <name>Snapshot</name>
       <url>http://34.125.81.23:8081/repository/maven-snapshots</url>
     </snapshotRepository>
