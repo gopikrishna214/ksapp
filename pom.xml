@@ -63,13 +63,13 @@
     </build>
 	<distributionManagement>
     <repository>
-      <id>Releases</id>
-      <name>deploy</name>
+      <id>deploy</id>
+      <name>Releases</name>
       <url>http://34.125.81.23:8081/repository/maven-releases/</url>
     </repository>
     <snapshotRepository>
-      <id>Snapshot</id>
-      <name>deploy</name>
+      <id>deploy</id>
+      <name>snapshot</name>
       <url>http://34.125.81.23:8081/repository/maven-snapshots/</url>
     </snapshotRepository>
   </distributionManagement>
