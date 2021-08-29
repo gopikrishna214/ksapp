@@ -8,6 +8,8 @@
     <artifactId>ks</artifactId>
     <version>3-SNAP</version>
     <packaging>war</packaging>
+	<name>Web Application</name>
+	<description>Java Webapp</description>
 
     <repositories>
         <repository>
