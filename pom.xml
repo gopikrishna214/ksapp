@@ -6,7 +6,7 @@
 
     <groupId>pro</groupId>
     <artifactId>ks</artifactId>
-    <version>4-SNAP</version>
+    <version>1-SNAP</version>
     <packaging>war</packaging>
 	<name>Web Application</name>
 	<description>Java Webapp</description>
@@ -67,12 +67,12 @@
     <repository>
       <id>deployment</id>
       <name>Releases</name>
-      <url>http://34.125.219.187:8081/repository/maven-releases/</url>
+      <url>http://34.132.37.70:8081/repository/maven-releases/</url>
     </repository>
     <snapshotRepository>
       <id>deployment</id>
       <name>Snapshot</name>
-      <url>http://34.125.219.187:8081/repository/maven-snapshots/</url>
+      <url>http://34.132.37.70:8081/repository/maven-snapshots/</url>
     </snapshotRepository>
   </distributionManagement>
 </project>
