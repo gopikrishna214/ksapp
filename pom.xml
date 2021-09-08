@@ -6,7 +6,7 @@
 
     <groupId>pro</groupId>
     <artifactId>ks</artifactId>
-    <version>1-SNAP</version>
+    <version>2-SNAP</version>
     <packaging>war</packaging>
 	<name>Web Application</name>
 	<description>Java Webapp</description>
